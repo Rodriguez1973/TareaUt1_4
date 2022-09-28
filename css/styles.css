@@ -1,0 +1,17 @@
+h1 {
+  padding: 10px;
+  color: blue;
+  background-color: darkgray;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(247, 211, 211);
+}
+
+p {
+  font-size: 17px;
+  text-align: justify;
+}
